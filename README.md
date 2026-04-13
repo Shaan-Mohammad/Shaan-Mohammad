@@ -74,30 +74,8 @@ I'm a final-year CSE student at LPU with a minor in Data Science, actively prepa
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaan-Mohammad&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaan-Mohammad&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaan-Mohammad&theme=github-dark-blue&hide_border=true" height="160"/>
-</p>
-
----
-
-### 🧩 DSA Progress
-
-> Actively solving problems on LeetCode, focusing on arrays, two-pointers, sliding window, graphs & dynamic programming.
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap)
-
----
-
-<p align="center">
-  <i>Open to SDE internships and placement opportunities. Let's connect.</i>
-</p>
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">
