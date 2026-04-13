@@ -76,9 +76,3 @@ I'm a final-year CSE student at LPU with a minor in Data Science, actively prepa
 
 
 
-
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
