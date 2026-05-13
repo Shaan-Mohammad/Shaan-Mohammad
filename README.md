@@ -69,7 +69,7 @@ I'm a final-year CSE student at LPU with a minor in Data Science, actively prepa
 | 🌧️ [Rain Prediction Using ML](https://github.com/Shaan-Mohammad/Rain-Prediction-Using-ML) | Predicting Australian rainfall using supervised ML with preprocessing & model evaluation | Python · Scikit-learn · Pandas |
 | 🧠 [MoodLog](https://github.com/Shaan-Mohammad/MoodLog) | Android mood tracking & mental wellness application | Java · Android · HTML |
 | ⚙️ [LRU Cache System](https://github.com/Shaan-Mohammad/LRU-Cache-System-) | Implementation of LRU Cache using doubly linked list + hash map — classic system design problem | C++ |
-| 💸 [Expense Management System](https://github.com/Shaan-Mohammad/expense-management-system) | Full-featured expense tracking and management web app | JavaScript |
+| 💸 [Expense Management System](https://github.com/Shaan-Mohammad/-expense-management-system.git) | Full-featured expense tracking and management web app | JavaScript |
 | 🔬 [EV Data Analysis](https://github.com/Shaan-Mohammad/ev-data-analysis) | Exploratory data analysis on electric vehicle population data | Python · Pandas · Matplotlib |
 
 ---
